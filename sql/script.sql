@@ -1,0 +1,1 @@
+INSERT INTO `notes`.`user` (`login`, `pass`, `rating`, `firstName`, `lastName`, `patronymic`, `timeRegistered`) VALUES ("Klein", "12345678", "1", "notsysadmin", "notanykey", "devops", now());
